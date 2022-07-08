@@ -82,10 +82,13 @@ h3{
 #testimonials{
     padding: 7% 15%;
     text-align: center;
-    background-color: #ff4c68;
+    background-color: #ef8172;
+
 }
 
 .h2-testimonial{
     color: #fff;
-    font-family: "Montserrat-Black";
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height: 1.5;
 }
