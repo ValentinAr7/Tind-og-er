@@ -69,7 +69,9 @@ h3{
 #features{
     padding: 7% 15%;
     background-color: #fff;
-position: absolute;
+    position: absolute;
+    z-index: 1;
+
 }
 
 .features{
