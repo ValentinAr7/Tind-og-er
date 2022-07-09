@@ -60,6 +60,7 @@ h3{
 .title-image{
     width: 60%;
     transform: rotate(25deg);
+    z-index: -1;
 }
 
 
@@ -67,7 +68,7 @@ h3{
 
 #features{
     padding: 7% 15%;
-    
+    background-color: #fff;
 }
 
 .features{
