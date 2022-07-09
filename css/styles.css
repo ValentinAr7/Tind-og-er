@@ -112,3 +112,9 @@ h3{
 .carousel-item{
     padding: 7% 15%;
 }
+
+/* pricing section  */
+
+#pricing{
+    padding: 100px;
+}
