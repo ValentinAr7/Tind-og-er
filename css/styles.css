@@ -58,8 +58,9 @@ h3{
 /* title image */
 
 .title-image{
-    width: 60%;
+    width: 30%;
     transform: rotate(25deg);
+    position: absolute;
 
 }
 
