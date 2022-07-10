@@ -134,9 +134,15 @@ h3{
 /* Media  */
 
 @media (max-width: 1028px){
+
+    #title{
+        text-align: center;
+    }
+
     .title-image{
+
         position: static;
         transform: rotate(0);
-        size: 50%;
+        size: 80%;
     }
 }
