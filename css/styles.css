@@ -130,3 +130,7 @@ h3{
     padding: 3% 2%;
 
 }
+
+/* Media  */
+
+@media (max-width: 1028px)
