@@ -136,6 +136,7 @@ h3{
 @media (max-width: 1028px){
     .title-image{
         position: static;
-        transform: 0;
+        transform: rotate(0);
+        size: 50%;
     }
 }
