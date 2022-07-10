@@ -133,4 +133,8 @@ h3{
 
 /* Media  */
 
-@media (max-width: 1028px)
+@media (max-width: 1028px){
+    .title-image{
+        position: static;
+    }
+}
