@@ -39,4 +39,11 @@
 ![Features](https://user-images.githubusercontent.com/104101252/178346515-c1aaab09-0018-4d04-8fe1-c7af774262b4.JPG)
 <hr>
 
+<!--Testimonials Section -->
+<h3>Testimonials section</h3>
+<p>In this section I used Carousel Bootstrap slide show to present different testimonials</p>
+![testimonials](https://user-images.githubusercontent.com/104101252/178348555-136b30b5-f665-4549-b921-39d0ea7832b3.JPG)
+<hr>
+
+
 
