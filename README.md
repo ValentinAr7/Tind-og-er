@@ -20,7 +20,7 @@
   <li>Pricing</li>
   <li>Footer</li>
 </ol>
-
-
+<hr>
+![Nav-bar-and-heading](https://user-images.githubusercontent.com/104101252/178346089-e2892ef5-5226-4efe-ac3c-88bf06e3fa89.JPG)
 
 
