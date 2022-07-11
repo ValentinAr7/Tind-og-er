@@ -24,13 +24,19 @@
 
 <!-- Navigation Bar and Heading section-->
 <h3>Navigation bar and heading section</h3>
-<p>On this section I have used 3 buttons in the navigation bar to navigate the user though the website</p>
-<p>There are 2 "Download" buttons - 1 for Mac devices and 1 for Android devices</p>
-<p>I used FontAwesome website for all icons around the website</p>
-<p>Z-index has been used for effectively presenting the image</p>
+<p>On this section I have used 3 buttons in the navigation bar to navigate the user though the website.</p>
+<p>There are 2 "Download" buttons - 1 for Mac devices and 1 for Android devices.</p>
+<p>I used FontAwesome website for all icons around the website.</p>
+<p>Z-index has been used for effectively presenting the image.</p>
+
 ![Nav-bar-and-heading](https://user-images.githubusercontent.com/104101252/178346089-e2892ef5-5226-4efe-ac3c-88bf06e3fa89.JPG)
+<hr>
 
 <!-- Features Section -->
+<h3>Features section</h3>
+<p>Here I used Bootstrap to divide the screen in to 3 section.</p>
+<p>The icons are from FontAwesome</p>
 ![Features](https://user-images.githubusercontent.com/104101252/178346515-c1aaab09-0018-4d04-8fe1-c7af774262b4.JPG)
+<hr>
 
 
