@@ -13,13 +13,13 @@
 </ul>
 <hr>
 <p>The website is divided into 5 sections:</p>
-<ul>
-  <ol>Navigation Bar</ol>
-  <ol>Features</ol>
-  <ol>Testimonials</ol>
-  <ol>Pricing</ol>
-  <ol>Footer</ol>
-</ul>
+<ol>
+  <li>Navigation Bar</li>
+  <li>Features</li>
+  <li>Testimonials</li>
+  <li>Pricing</li>
+  <li>Footer</li>
+</ol>
 
 
 
