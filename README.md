@@ -51,6 +51,13 @@
 ![prising](https://user-images.githubusercontent.com/104101252/178349087-41350912-7d7d-43c4-bc26-159e700ea094.JPG)
 <hr>
 
+<!--Footer Section -->
+<h3>Footer section</h3>
+<p>In this section I have some text and again 2 "Download" buttons.</p>
+<p>There are 4 icons for social media at the bottom.</p>
+![Footer](https://user-images.githubusercontent.com/104101252/178349642-586948c8-7a8d-4511-b3f6-7549eeed6eba.JPG)
+<hr>
+
 
 
 
