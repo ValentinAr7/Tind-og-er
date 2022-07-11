@@ -45,5 +45,12 @@
 ![testimonials](https://user-images.githubusercontent.com/104101252/178348555-136b30b5-f665-4549-b921-39d0ea7832b3.JPG)
 <hr>
 
+<!--Pricing Section -->
+<h3>Pricing section</h3>
+<p>In this section I used Bootstrap "Card Deck" with 3 "cards" each representing different subscription price</p>
+![prising](https://user-images.githubusercontent.com/104101252/178349087-41350912-7d7d-43c4-bc26-159e700ea094.JPG)
+<hr>
+
+
 
 
