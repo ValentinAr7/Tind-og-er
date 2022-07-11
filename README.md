@@ -21,6 +21,11 @@
   <li>Footer</li>
 </ol>
 <hr>
+
+<!-- Navigation Bar and Heading section-->
 ![Nav-bar-and-heading](https://user-images.githubusercontent.com/104101252/178346089-e2892ef5-5226-4efe-ac3c-88bf06e3fa89.JPG)
+
+<!-- Features Section -->
+![Features](https://user-images.githubusercontent.com/104101252/178346515-c1aaab09-0018-4d04-8fe1-c7af774262b4.JPG)
 
 
